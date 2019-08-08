@@ -1,3 +1,3 @@
-const heading = document.querySelector('#pageHeading');
+gitconst heading = document.querySelector('#pageHeading');
 
 heading.textContent = 'Goodbye!';
